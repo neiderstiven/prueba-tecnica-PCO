@@ -1,0 +1,16 @@
+{
+  "name": "prueba-tecnica-pco",
+  "version": "1.0.0",
+  "description": "prueba tecnica pco",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "vitest"
+  },
+  "author": "Neider Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^2.0.4"
+  }
+}
